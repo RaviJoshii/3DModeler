@@ -1,0 +1,12 @@
+Information related to the project:-
+
+1. Delete the images from the "Saved results" folder, so that you can see the fresh, result images 
+2. program folder consist of two python file 
+	(i) detect.py - it detect the aruco markers from given images(in "TestCase" folder)
+	      and use opencv to draw axis, cube and cylinder around the aruco markers.
+	(ii) TestSuite.py - After executing this file , this script will save the result in the "SavedResult"
+	       folder. 
+3. Compare the images in "Testcase" Folder and "Saved results" folder 
+
+
+main file to execute is :- Program/TestSuite.py 
