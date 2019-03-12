@@ -1,2 +1,8 @@
 # Augmented-Reality
-this repository consist of those projects related to opencv, opengl with python
+This repository consist of those projects related to opencv, opengl with python
+
+OpenCV- different figures(i.e axis, cube , cylinder) is drawn around the aruco markers using there ids
+
+OpenGl with Teapot- draw the 3d moving teapot around the aruco_markers. Different Teapot with their different textures is overlay on different aruco ids. 
+
+OpenGl with Blender: In this , by using blender, i have implemented some 3d models like pot, crow and pebbles , which is overlayed in different aruco ids
