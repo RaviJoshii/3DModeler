@@ -1,5 +1,5 @@
 # Augmented-Reality
-This repository consist of those projects related to opencv, opengl with python
+This repository consist of projects related to opencv, opengl with python
 
 OpenCV- different figures(i.e axis, cube , cylinder) is drawn around the aruco markers using there ids
 
