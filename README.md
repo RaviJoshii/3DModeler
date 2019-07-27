@@ -1,4 +1,4 @@
-# 3DModeler-Augumeneted Reality Python Script
+# 3DModeler-Augumented Reality Python Script
 This repository consist of projects related to opencv, opengl with python
 
 OpenCV- different figures(i.e axis, cube , cylinder) is drawn around the aruco markers using there ids
